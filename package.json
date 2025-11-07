@@ -21,12 +21,14 @@
   },
   "homepage": "https://github.com/WesleySantosC/API#readme",
   "devDependencies": {
+    "@types/express": "^5.0.5",
     "@types/node": "^24.10.0",
     "prisma": "^6.19.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@prisma/client": "^6.19.0"
+    "@prisma/client": "^6.19.0",
+    "express": "^5.1.0"
   }
 }
