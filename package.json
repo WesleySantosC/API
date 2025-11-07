@@ -22,6 +22,7 @@
   "homepage": "https://github.com/WesleySantosC/API#readme",
   "devDependencies": {
     "@types/express": "^5.0.5",
+    "@types/mongoose": "^5.11.96",
     "@types/node": "^24.10.0",
     "prisma": "^6.19.0",
     "ts-node": "^10.9.2",
@@ -29,6 +30,7 @@
   },
   "dependencies": {
     "@prisma/client": "^6.19.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3"
   }
 }
