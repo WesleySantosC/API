@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/WesleySantosC/API/issues"
   },
-  "homepage": "https://github.com/WesleySantosC/API#readme"
+  "homepage": "https://github.com/WesleySantosC/API#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
 }
